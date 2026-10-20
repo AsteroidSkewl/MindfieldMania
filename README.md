@@ -2,7 +2,7 @@
 A repository to contain my files for Week 3 of Hack Club's Half-Life!
 
 This project is going to be a portable MP3 player whose sole purpose is to play the Mindfield intro on the click of a button. I will use it when people say really deep things that need the suspense that the Mindfield intro brings. Below this is a quick drawing I have sketched up, showing what the player will likely look like:
-![IdealSketch](IdeaSketch.png)
+![IdeaSketch](IdeaSketch.jpg)
 
 Here are the electronic parts that I will be using to create the player:
 - Arduino Nano | Taking the input of the button to play the sound.
