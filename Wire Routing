@@ -1,0 +1,17 @@
+Wiring for the project:
+
+DFPlayer:
+RX -> 1K Resistor -> D2 Arduino Nano
+TX -> D3 Arduino Nano
+VCC -> 5V Arduino Nano
+GND -> GND
+SPK1 -> a speaker wire
+SPK2 -> the other speaker wire
+
+Power system:
+TP4056 B+ -> 18650 +
+TP4056 B- -> 18650 -
+TP4056 OUT+ -> MT3608+
+TP4056 OUT- -> MT3608-
+MT3608+ -> Switch -> Arduino 5V
+MT3608- -> Arduino GND
