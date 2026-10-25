@@ -37,7 +37,7 @@ I created a case for the player. There were two versions of the design:
 
 Because I couldn't assemble by putting parts in and then the speaker, I split the case into two parts; the lid and the case. You can see it in this picture:
 
-![Split case](Photos/CaseV2VBodies.png)
+![Split case](Photos/CaseV2Bodies.png)
 
 I also had to change a few things to do with position but I won't go into depth here. You can always find more information in the synced journal entries.
 And as always, thanks for reading... ;)
