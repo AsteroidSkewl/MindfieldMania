@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 20.5h | 6 |
+| Week 3 | Tier 1 | 19.52h | 6 |
 
 ## Contents
 
@@ -19,7 +19,7 @@
 3. [2026-10-23: I made a list of connections based on the BOM, in preparation for making the schematic. The routing doc was split into two halves: the DFPlayer system and the power system.](#2026-10-23-i-made-a-list-of-connections-based-on-the-bom-in-)
 4. [2026-10-23: I decided that I needed to learn IDE so that I could make the project run smoother. I wanted the intro to play on the flick of a switch which would require some modifications to the code. Steamakersbl](#2026-10-23-i-decided-that-i-needed-to-learn-ide-so-that-i-co)
 5. [2026-10-24: I went to Jaycar to go and buy the speaker I will be using for this project. I wanted to make sure that I had the correct size, and that it would fit well.](#2026-10-24-i-went-to-jaycar-to-go-and-buy-the-speaker-i-will)
-6. [2026-11-16: I went to Gordon Harris to buy the acrylic and then the library. They didn't have the right size of acrylic so I had to do one up. I hope I can work it out with the reimbursement as I am happy to pay](#2026-11-16-i-went-to-gordon-harris-to-buy-the-acrylic-and-th)
+6. [2026-11-16: I made this by accident and it was meant to be an entry for my display project so I have added this as a short time one. This doesn't exactly hold any purpose so feel VERY free to take out the 0.01 ho](#2026-11-16-i-made-this-by-accident-and-it-was-meant-to-be-an)
 
 ## Design
 
@@ -149,22 +149,12 @@ Because I couldn't just place the speaker in as there is a mesh on top of it, I 
 
 ## Build
 
-### 2026-11-16: I went to Gordon Harris to buy the acrylic and then the library. They didn't have the right size of acrylic so I had to do one up. I hope I can work it out with the reimbursement as I am happy to pay
+### 2026-11-16: I made this by accident and it was meant to be an entry for my display project so I have added this as a short time one. This doesn't exactly hold any purpose so feel VERY free to take out the 0.01 ho
 
-**1h**
+**0.02h**
 
-I went to Gordon Harris to buy the acrylic and then the library. They didn't have the right size of acrylic so I had to do one up. I hope I can work it out with the reimbursement as I am happy to pay the extra. The library was shut that day so I went back the next. I cut out the acrylic panels at the library after checking over the design. I peeled off the protective plastic and then did some post processing to remove these bits of stringy plastic.
+I made this by accident and it was meant to be an entry for my display project so I have added this as a short time one. This doesn't exactly hold any purpose so feel VERY free to take out the 0.01 hours spent on it. I went to Jaycar and bought the cable. I have chosen this for  my non existant entry because I have photos of it.
 
-![WhatsApp Image 2026-11-18 at 5.43.14 PM 1](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/5b7554a662312ba4ee2d3e5f0f1a509b5243be20b1c895726c037b2dcdbb802b.jpg)
+![WhatsApp Image 2026-11-19 at 4.29.40 PM 1](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/d80757a922549fa5e0f321c0240a2b3a0e0e2319baf43dbe4903a36bd63d062c.jpg)
 
-![WhatsApp Image 2026-11-18 at 5.43.14 PM 2](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/dc843af3da59351089943a46cf43a0b3bae4813e3f7e0c31c3ec920f54b481db.jpg)
-
-![WhatsApp Image 2026-11-18 at 5.43.14 PM](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/f9870eadf1c88d5be02e08b70a5965fb420878a5a41ab539a396189e17626926.jpg)
-
-![WhatsApp Image 2026-11-18 at 5.43.15 PM 1](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/51b93b82b353b561e0868897e8f24991b211d93a9570f2782097c56246c9cd64.jpg)
-
-![WhatsApp Image 2026-11-18 at 5.43.15 PM](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/205a2622af6ff44e9f7e17db6d680c9a4b368ad5a29e2fad27605e3078e576d2.jpg)
-
-I sliced up the model and its 3D printing right now.
-
-![WhatsApp Image 2026-11-18 at 5.43.43 PM](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/f956b16fde60634f60f69b5894e24d4851db3b61c7e57df963ad6d048e75c16f.jpg)
+![WhatsApp Image 2026-11-19 at 4.29.40 PM](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/5246740a013307a9048a778a4720af31e5f9de7c28222a2aa27924402cc089bf.jpg)
