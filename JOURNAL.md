@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 19.52h | 6 |
+| Week 3 | Tier 1 | 19.6h | 6 |
 
 ## Contents
 
@@ -19,7 +19,7 @@
 3. [2026-10-23: I made a list of connections based on the BOM, in preparation for making the schematic. The routing doc was split into two halves: the DFPlayer system and the power system.](#2026-10-23-i-made-a-list-of-connections-based-on-the-bom-in-)
 4. [2026-10-23: I decided that I needed to learn IDE so that I could make the project run smoother. I wanted the intro to play on the flick of a switch which would require some modifications to the code. Steamakersbl](#2026-10-23-i-decided-that-i-needed-to-learn-ide-so-that-i-co)
 5. [2026-10-24: I went to Jaycar to go and buy the speaker I will be using for this project. I wanted to make sure that I had the correct size, and that it would fit well.](#2026-10-24-i-went-to-jaycar-to-go-and-buy-the-speaker-i-will)
-6. [2026-11-16: I made this by accident and it was meant to be an entry for my display project so I have added this as a short time one. This doesn't exactly hold any purpose so feel VERY free to take out the 0.01 ho](#2026-11-16-i-made-this-by-accident-and-it-was-meant-to-be-an)
+6. [2026-11-16: I made an entry for my display project on this and now I can't delete it so I am making this entry that doesn't mean anything. I went to Jaycar and bought a speaker. Then I soldered it up. This is the](#2026-11-16-i-made-an-entry-for-my-display-project-on-this-an)
 
 ## Design
 
@@ -149,12 +149,12 @@ Because I couldn't just place the speaker in as there is a mesh on top of it, I 
 
 ## Build
 
-### 2026-11-16: I made this by accident and it was meant to be an entry for my display project so I have added this as a short time one. This doesn't exactly hold any purpose so feel VERY free to take out the 0.01 ho
+### 2026-11-16: I made an entry for my display project on this and now I can't delete it so I am making this entry that doesn't mean anything. I went to Jaycar and bought a speaker. Then I soldered it up. This is the
 
-**0.02h**
+**0.1h**
 
-I made this by accident and it was meant to be an entry for my display project so I have added this as a short time one. This doesn't exactly hold any purpose so feel VERY free to take out the 0.01 hours spent on it. I went to Jaycar and bought the cable. I have chosen this for  my non existant entry because I have photos of it.
+I made an entry for my display project on this and now I can't delete it so I am making this entry that doesn't mean anything. I went to Jaycar and bought a speaker. Then I soldered it up. This is the same speaker from the reel I did ages ago.
 
-![WhatsApp Image 2026-11-19 at 4.29.40 PM 1](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/d80757a922549fa5e0f321c0240a2b3a0e0e2319baf43dbe4903a36bd63d062c.jpg)
+![WhatsApp Image 2026-11-19 at 4.33.11 PM](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/532a2f6e75683429f5cfc4919564881e1dfa8ac5b679d01dff9561f0ec97670e.jpg)
 
-![WhatsApp Image 2026-11-19 at 4.29.40 PM](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/5246740a013307a9048a778a4720af31e5f9de7c28222a2aa27924402cc089bf.jpg)
+![WhatsApp Image 2026-11-19 at 4.33.11 PM](https://halflife.hackclub-assets.com/sessions/6mG7f89ZDOsngQ8qn0yp6oxaSBtp0k8c/32ad4f03d0ef92145a31dcc3b9d47e249203a2090f367f584e6f61061f4a24fb.jpg)
